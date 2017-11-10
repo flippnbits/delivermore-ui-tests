@@ -7,7 +7,7 @@ namespace DelivermoreUITests
     public class UserTests
     {
         private TestContext _testContextInstance;
-        private string _url = "http://delivermorermtest.azurewebsites.net/";
+        private string _url = "http://delivermore.azurewebsites.net/";
         private string _browser = "IE";
 
         [TestInitialize]
